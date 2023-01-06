@@ -3,7 +3,7 @@ A study by nerds.
 Okay, seriously. Scripts for personality trait recognition based on structural metrics of tweets.
 
 Full paper: ["Analyzing Structural Metrics to Predict Twitter User Personality Traits"](https://www.academia.edu/43608598/Analyzing_Structural_Metrics_to_Predict_Twitter_User_Personality_Traits).  
-Made with @zivhd & @kildor22. Part of Project Personality by @EdTheAlchemist. 
+Made with @zivhd & @jard-io. Part of Project Personality by @EdTheAlchemist. 
 
 ### Structural Metrics:
 - Words per Tweet
